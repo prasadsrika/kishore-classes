@@ -1,0 +1,10 @@
+x=100
+y=20
+c=30
+print(x+y)
+print(x-y)
+print(y/x)
+a=100
+b=20
+z=30
+print((a+z)*b)
